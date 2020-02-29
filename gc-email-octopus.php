@@ -137,7 +137,6 @@ final class SKA_Email_Octoups {
 
 }
 
-
 /**
  * Grab the SKA_Email_Octoups object and return it.
  * Wrapper for SKA_Email_Octoups::get_instance().
